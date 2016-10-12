@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P12_01_AsyncTask/P12_01_AsyncTask.iml" filepath="$PROJECT_DIR$/P12_01_AsyncTask/P12_01_AsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12_02_GetImage/P12_02_GetImage.iml" filepath="$PROJECT_DIR$/P12_02_GetImage/P12_02_GetImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12_03_GetHtml/P12_03_GetHtml.iml" filepath="$PROJECT_DIR$/P12_03_GetHtml/P12_03_GetHtml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12_04_SharedPref/P12_04_SharedPref.iml" filepath="$PROJECT_DIR$/P12_04_SharedPref/P12_04_SharedPref.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12_05_PreferenceAct/P12_05_PreferenceAct.iml" filepath="$PROJECT_DIR$/P12_05_PreferenceAct/P12_05_PreferenceAct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12_06_FileIO/P12_06_FileIO.iml" filepath="$PROJECT_DIR$/P12_06_FileIO/P12_06_FileIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prj11_AsyncTask_Image_HTML_SharedPref_FileIO.iml" filepath="$PROJECT_DIR$/Prj11_AsyncTask_Image_HTML_SharedPref_FileIO.iml" />
+    </modules>
+  </component>
+</project>

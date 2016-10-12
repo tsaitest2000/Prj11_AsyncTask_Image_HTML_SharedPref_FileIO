@@ -1,0 +1,6 @@
+include ':P12_01_AsyncTask'
+include ':P12_02_GetImage'
+include ':P12_03_GetHtml'
+include ':P12_04_SharedPref'
+include ':P12_05_PreferenceAct'
+include ':P12_06_FileIO'
